@@ -1,4 +1,4 @@
-# ChatGPT Search Always On
+# ChatGPT Web Search Always On
 
 A Chrome extension that automatically enables ChatGPT's web search toggle whenever you start a new conversation.
 
@@ -6,7 +6,7 @@ A Chrome extension that automatically enables ChatGPT's web search toggle whenev
 
 1. Clone the repository:
    ```bash
-   ghq get github.com/shifumin/chatgpt-search-always-on
+   ghq get github.com/shifumin/chatgpt-web-search-always-on
    ```
 2. Install dependencies:
    ```bash

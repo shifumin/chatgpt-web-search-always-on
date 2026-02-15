@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-ChatGPT Search Always On — A Chrome extension that automatically enables ChatGPT's web search toggle for every conversation.
+ChatGPT Web Search Always On — A Chrome extension that automatically enables ChatGPT's web search toggle for every conversation.
 
 **Tech Stack**: TypeScript, [WXT](https://wxt.dev/) (Manifest V3), Vitest, [Biome](https://biomejs.dev/) (linter/formatter)
 
