@@ -1,0 +1,9 @@
+import { defineConfig } from "wxt";
+
+// See https://wxt.dev/api/config.html
+export default defineConfig({
+  manifest: {
+    name: "ChatGPT Search Always On",
+    description: "Automatically enables ChatGPT's web search toggle for every conversation",
+  },
+});
