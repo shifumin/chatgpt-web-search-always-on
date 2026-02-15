@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-search-always-on",
+  "name": "chatgpt-web-search-always-on",
   "description": "Automatically enables ChatGPT's web search toggle for every conversation",
   "private": true,
   "version": "1.0.0",
