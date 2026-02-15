@@ -34,16 +34,6 @@ A Chrome extension that automatically enables ChatGPT's web search toggle whenev
 3. Monitors for SPA navigation to re-enable on new conversations
 4. Skips if web search is already enabled
 
-## Development
-
-```bash
-pnpm dev        # Start dev server with hot reload
-pnpm build      # Production build
-pnpm compile    # Type check
-pnpm lint       # Lint check
-pnpm test       # Run tests
-```
-
 ## Tech Stack
 
 - [WXT](https://wxt.dev/) (Manifest V3 framework)
